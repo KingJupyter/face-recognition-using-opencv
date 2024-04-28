@@ -11,12 +11,14 @@
 4. Apply clustering or classification techniques to the features to complete the face recognition task.
 
 *Read more about [OpenFace](https://cmusatyalab.github.io/openface/)*
-![Working of OpenCV Face detector](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/openface.jpg)
+![Working of OpenCV Face detector](https://github.com/morning120429/face-recognition-using-opencv/blob/master/images/openface.jpg)
 
 ## Getting Started
 How to use
 ```    
-git clone https://github.com/aakashjhawar/face-recognition-using-opencv
+git clone https://github.com/morning120429/face-recognition-using-opencv
+```
+```
 cd face-recognition-using-opencv
 ```
  - Create dataset of face images.
@@ -39,6 +41,4 @@ sudo apt-get install python-opencv
 ## Results
 
 #### Detect and recognize faces from video camera-
-![Result](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/output1.png)
-
-
+![Result](https://github.com/morning120429/face-recognition-using-opencv/blob/master/images/output1.png)
