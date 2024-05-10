@@ -15,7 +15,7 @@
 
 ## Getting Started
 How to use
-```    
+```
 git clone https://github.com/morning120429/face-recognition-using-opencv
 ```
 ```
