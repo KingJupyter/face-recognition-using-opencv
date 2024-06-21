@@ -42,3 +42,7 @@ sudo apt-get install python-opencv
 
 #### Detect and recognize faces from video camera-
 ![Result](https://github.com/morning120429/face-recognition-using-opencv/blob/master/images/output1.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
